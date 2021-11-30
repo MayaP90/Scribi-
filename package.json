@@ -37,6 +37,7 @@
     "ignore": []
   },
   "dependencies": {
+    "@feathersjs/cli": "^4.6.1",
     "@feathersjs/configuration": "^4.5.11",
     "@feathersjs/errors": "^4.5.11",
     "@feathersjs/express": "^4.5.11",
